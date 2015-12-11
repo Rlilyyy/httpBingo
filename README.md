@@ -1,4 +1,8 @@
 ###1.为XMLHttpRequest写的`httpbingo.js`
+
+###阅读了underscore的源码以后，我对链式这个库的链式调用的方法做了整体的改变
+###具体移步`https://github.com/Rlilyyy/bjax`
+
 <br>
 ####`httpbingo.js`是为了更方便地使用XMLHttpRequest而写的JS函数，调用方法如下：
 ``` js
