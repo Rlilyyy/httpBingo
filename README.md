@@ -4,7 +4,7 @@
 
 具体移步`https://github.com/Rlilyyy/bjax`
 
-####`httpbingo.js`是为了更方便地使用XMLHttpRequest而写的JS函数，调用方法如下：
+#### `httpbingo.js`是为了更方便地使用XMLHttpRequest而写的JS函数，调用方法如下：
 ``` js
 $.init()
 	.setTarget("GET", "http://localhost/Watermalon/index.php")
